@@ -100,7 +100,7 @@ else:
 
 > 11. What is the difference between break and continue?
 
-`continue` jumps to the next execution of the current block, skipping the rest of the block.
+`continue` jumps to the next execution of the current loop, skipping the rest of the loop.
 `break` jumps past the end of the block, skipping the rest of the block.
 
 > 12. What is the difference between `range(10)`, `range(0, 10)`, and `range(0, 10, 1)` in a for loop?
