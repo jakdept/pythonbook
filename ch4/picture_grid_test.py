@@ -12,7 +12,7 @@ import picture_grid
 
 
 class TestPictureGrid(unittest.TestCase):
-    '''tests the collatz.py script'''
+    '''tests the picture_grid.py script'''
 
     def test_picture_grid(self):
         '''single test to verify picture transfer'''
